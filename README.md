@@ -18,6 +18,8 @@ Prints out comparison to analytic solution over the interval
 
 Uses the same input commands as Numerical_Integration.py
 
+Uses Random.py to create random numbers
+
 Calculates the integral using a random distribution of points over the interval (flat projected function)
 
 ## Monte Carlo Results
